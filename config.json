@@ -1,0 +1,9 @@
+{
+    "path" : {
+        "test" : "test.txt"
+    },
+
+    "access" : {
+        "test" : "rb"
+    }
+}
